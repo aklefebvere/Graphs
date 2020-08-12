@@ -145,7 +145,6 @@ class Graph:
                 # make a copy of the path
                 # append the neighbor to the back of the path
                 # enqueue out new path
-
         return None
 
     def dfs(self, starting_vertex, destination_vertex):
